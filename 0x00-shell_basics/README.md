@@ -8,4 +8,5 @@ Task 6 : script that creates a directory named my_first_directory in the /tmp/ d
 Task 7 : script that Move the file betty from /tmp/ to /tmp/my_first_directory.
 Task 8 : script that Delete the file betty.
 Task 9 : script that Delete the directory /tmp/my_first_directory.
+Task 10 : script that changes the working directory to the previous one.
 
