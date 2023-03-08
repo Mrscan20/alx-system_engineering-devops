@@ -5,3 +5,5 @@ Task 3 : script that display the content list of your current directory in a lon
 Task 4 : script that display the content list of your current directory in a long format including hidden files.
 Task 5 : script that display the content list of your current directory in a long format including hidden files with user and Group ID (Numerically).
 Task 6 : script that creates a directory named my_first_directory in the /tmp/ directory.
+Task 7 : script that Move the file betty from /tmp/ to /tmp/my_first_directory.
+
