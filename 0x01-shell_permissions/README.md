@@ -9,3 +9,4 @@ Task 7 : script that adds execution permission to the owner, the group owner and
 Task 8 : script that sets the permission to the file hello 007.
 Task 9 : script that sets the mode of the file hello to 753.
 Task 10 : script that sets the mode of the file hello the same as olleh’s mode.
+Task 11 : script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
