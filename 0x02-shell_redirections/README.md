@@ -1,6 +1,6 @@
 Task 0 : script that prints “Hello, World”, followed by a new line to the standard output.
-Task 1 : script that
-Task 2 : script that
+Task 1 : script that displays a confused smiley "(Ôo)'
+Task 2 : script that Display the content of the /etc/passwd file.
 Task 3 : script that
 Task 4 : script that
 Task 5 : script that
