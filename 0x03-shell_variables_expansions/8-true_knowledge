@@ -1,2 +1,2 @@
 #!/bin/bash
-let result=$TRUEKNOWLEDGE+128 | echo $result
+export result="" | let "result=$TRUEKNOWLEDGE+128" | echo $result
