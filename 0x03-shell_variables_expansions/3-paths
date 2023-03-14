@@ -1,2 +1,2 @@
 #!/bin/bash
-grep ^[0] $PATH | wc -l
+find /usr/local/sbin /usr/local/bin /usr/sbin /usr/bin /sbin /bin -type d | wc -l
