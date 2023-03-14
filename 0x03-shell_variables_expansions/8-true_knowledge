@@ -1,0 +1,2 @@
+#!/bin/bash
+let result=$TRUEKNOWLEDGE+128 | echo $result
