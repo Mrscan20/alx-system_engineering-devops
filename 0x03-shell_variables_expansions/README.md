@@ -1,5 +1,5 @@
 Task 0 : script that Create a script that creates an alias with Name: ls Value: rm *
-Task 1 : script that 
+Task 1 : script that prints hello user, where user is the current Linux user. 
 Task 2 : script that 
 Task 3 : script that
 Task 4 : script that 
